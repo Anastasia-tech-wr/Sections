@@ -3,15 +3,3 @@ cinema
 
 love
 
-new couplet
-
-
-new couplet 3
-
-
-new couplet 3
-
-
-new couplet 4
-
-for tag only
